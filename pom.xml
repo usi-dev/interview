@@ -11,6 +11,7 @@
 
     <modules>
         <module>samples</module>
+        <module>review</module>
     </modules>
 
     <!-- Версии зависимостей -->
